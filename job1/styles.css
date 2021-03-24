@@ -1,0 +1,347 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 600px;
+	 height: 1822px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #PlanodeFundo 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 600px;
+	 height: 1822px;
+	 z-index:1;
+} 
+
+ #BGAzul 
+{ 
+	 left: -5px; 
+	 top: -3px; 
+	 position: absolute; 
+	 width: 606px;
+	 height: 126px;
+	 z-index:2;
+} 
+
+ #Departamentos 
+{ 
+	 left: 35px; 
+	 top: 1676px; 
+	 position: absolute; 
+	 width: 529px;
+	 height: 117px;
+	 z-index:3;
+} 
+
+ #BGCupom 
+{ 
+	 left: -1px; 
+	 top: 1387px; 
+	 position: absolute; 
+	 width: 604px;
+	 height: 255px;
+	 z-index:4;
+} 
+
+ #eganhe10nasuaprimeir 
+{ 
+	 left: 78px; 
+	 top: 1510px; 
+	 position: absolute; 
+	 width: 444px;
+	 height: 24px;
+	 z-index:5;
+} 
+
+ #VOLTE10 
+{ 
+	 left: 216px; 
+	 top: 1451px; 
+	 position: absolute; 
+	 width: 166px;
+	 height: 29px;
+	 z-index:6;
+} 
+
+ #Useocupom 
+{ 
+	 left: 224px; 
+	 top: 1407px; 
+	 position: absolute; 
+	 width: 153px;
+	 height: 23px;
+	 z-index:7;
+} 
+
+ #Retngulo10 
+{ 
+	 left: 54px; 
+	 top: 1438px; 
+	 position: absolute; 
+	 width: 495px;
+	 height: 50px;
+	 z-index:8;
+} 
+
+ #Retngulo8copiar2 
+{ 
+	 left: 199px; 
+	 top: 1566px; 
+	 position: absolute; 
+	 width: 198px;
+	 height: 53px;
+	 z-index:9;
+} 
+
+ #CALLTOACTIONcopiar 
+{ 
+	 left: 237px; 
+	 top: 1585px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 11px;
+	 z-index:10;
+} 
+
+ #Bannerprincipal 
+{ 
+	 left: -6px; 
+	 top: 122px; 
+	 position: absolute; 
+	 width: 606px;
+	 height: 294px;
+	 z-index:11;
+} 
+
+ #Retngulo6 
+{ 
+	 left: -24px; 
+	 top: 415px; 
+	 position: absolute; 
+	 width: 627px;
+	 height: 531px;
+	 z-index:12;
+} 
+
+ #Bannerbody2 
+{ 
+	 left: 47px; 
+	 top: 980px; 
+	 position: absolute; 
+	 width: 281px;
+	 height: 341px;
+	 z-index:13;
+} 
+
+ #Bannerbody 
+{ 
+	 left: 296px; 
+	 top: 449px; 
+	 position: absolute; 
+	 width: 273px;
+	 height: 381px;
+	 z-index:14;
+} 
+
+ #Retngulo5 
+{ 
+	 left: 29px; 
+	 top: 299px; 
+	 position: absolute; 
+	 width: 229px;
+	 height: 244px;
+	 z-index:15;
+} 
+
+ #Loremipsumdolorsitam 
+{ 
+	 left: 47px; 
+	 top: 364px; 
+	 position: absolute; 
+	 width: 195px;
+	 height: 152px;
+	 z-index:16;
+} 
+
+ #Loremipsumdolorsitam_0 
+{ 
+	 left: 361px; 
+	 top: 1071px; 
+	 position: absolute; 
+	 width: 195px;
+	 height: 152px;
+	 z-index:17;
+} 
+
+ #Loremipsumdolorsitam_1 
+{ 
+	 left: 47px; 
+	 top: 585px; 
+	 position: absolute; 
+	 width: 217px;
+	 height: 228px;
+	 z-index:18;
+} 
+
+ #LOREMIPSUM 
+{ 
+	 left: 48px; 
+	 top: 326px; 
+	 position: absolute; 
+	 width: 173px;
+	 height: 18px;
+	 z-index:19;
+} 
+
+ #LOREMIPSUM_0 
+{ 
+	 left: 356px; 
+	 top: 1033px; 
+	 position: absolute; 
+	 width: 171px;
+	 height: 18px;
+	 z-index:20;
+} 
+
+ #Retngulo8 
+{ 
+	 left: 159px; 
+	 top: 861px; 
+	 position: absolute; 
+	 width: 289px;
+	 height: 60px;
+	 z-index:21;
+} 
+
+ #CALLTOACTION 
+{ 
+	 left: 225px; 
+	 top: 883px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 15px;
+	 z-index:22;
+} 
+
+ #Retngulo8copiar 
+{ 
+	 left: 359px; 
+	 top: 1257px; 
+	 position: absolute; 
+	 width: 198px;
+	 height: 53px;
+	 z-index:23;
+} 
+
+ #CALLTOACTION_0 
+{ 
+	 left: 397px; 
+	 top: 1276px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 11px;
+	 z-index:24;
+} 
+
+ #FEMININO 
+{ 
+	 left: 50px; 
+	 top: 91px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 9px;
+	 z-index:25;
+} 
+
+ #MASCULINO 
+{ 
+	 left: 210px; 
+	 top: 91px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 9px;
+	 z-index:26;
+} 
+
+ #INFANTIL 
+{ 
+	 left: 381px; 
+	 top: 91px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 9px;
+	 z-index:27;
+} 
+
+ #CASA 
+{ 
+	 left: 528px; 
+	 top: 91px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 9px;
+	 z-index:28;
+} 
+
+ #Retngulo3 
+{ 
+	 left: 2px; 
+	 top: 71px; 
+	 position: absolute; 
+	 width: 597px;
+	 height: 3px;
+	 z-index:29;
+} 
+
+ #Retngulo2 
+{ 
+	 left: 153px; 
+	 top: 83px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 30px;
+	 z-index:30;
+} 
+
+ #Retngulo2copiar 
+{ 
+	 left: 326px; 
+	 top: 83px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 30px;
+	 z-index:31;
+} 
+
+ #Retngulo2copiar2 
+{ 
+	 left: 482px; 
+	 top: 83px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 30px;
+	 z-index:32;
+} 
+
+ #LogoCattan 
+{ 
+	 left: 218px; 
+	 top: 31px; 
+	 position: absolute; 
+	 width: 164px;
+	 height: 22px;
+	 z-index:33;
+} 
